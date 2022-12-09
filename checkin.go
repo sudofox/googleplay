@@ -2,7 +2,7 @@ package googleplay
 
 import (
    "bytes"
-   "github.com/9hk/rosso/protobuf"
+   "github.com/elt/rosso/protobuf"
    "net/http"
    "strconv"
    "time"

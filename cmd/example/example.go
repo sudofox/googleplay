@@ -1,7 +1,7 @@
 package main
 
 import (
-   "github.com/9hk/googleplay"
+   "github.com/elt/googleplay"
    "os"
 )
 
