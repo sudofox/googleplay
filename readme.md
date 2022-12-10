@@ -50,11 +50,11 @@ Get app details:
 > googleplay -a com.google.android.youtube
 Title: YouTube
 Creator: Google LLC
-Upload Date: Aug 24, 2022
-Version: 17.33.42
-Version Code: 1531188672
-Num Downloads: 12.45 billion
-Installation Size: 48.99 megabyte
+Upload Date: Dec 8, 2022
+Version: 17.48.44
+Version Code: 1533158848
+Num Downloads: 13.04 billion
+Installation Size: 50.39 megabyte
 File: APK APK APK APK
 Offer: 0 USD
 ~~~
@@ -70,7 +70,7 @@ provided by the previous details command. If APK is split, all pieces will be
 downloaded:
 
 ~~~
-googleplay -a com.google.android.youtube -v 1531188672
+googleplay -a com.google.android.youtube -v 1533158848
 ~~~
 
 ## Contact
